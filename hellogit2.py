@@ -1,1 +1,1 @@
-print("Hello git 2. actualizado");
+print("Hello git 2");
